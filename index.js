@@ -5,7 +5,7 @@ const port = 3000
 app.get('/', (req, res) => res.send('Your Bot is ready to be uptimed!!!'))
 
 app.listen(port, () =>
-console.log(`Your app is listening at http://localhost:${port}`)
+console.log(`[Server]: Your app is listening at http://localhost:${port}`)
 );
 
 const Discord = require("discord.js");
