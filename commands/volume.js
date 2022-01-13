@@ -14,7 +14,7 @@ exports.run = async (client, message, args) => {
       new MessageEmbed()
         .setAuthor(
           "Master Volume Controller",
-          "https://img.icons8.com/color/2x/high-volume--v2.gif"
+          "https://cdn-icons-png.flaticon.com/512/2095/2095954.png"
         )
         .setColor("BLUE")
         .setDescription("**Current volume is " + queue.volume + " **")
@@ -37,7 +37,7 @@ exports.run = async (client, message, args) => {
     new MessageEmbed()
       .setAuthor(
         "Master Volume Controller",
-        "https://img.icons8.com/color/2x/high-volume--v2.gif"
+        "https://cdn-icons-png.flaticon.com/512/2095/2095954.png"
       )
       .setColor("BLUE")
       .setDescription("**Volume set to " + args[0] + " :white_check_mark: **")
