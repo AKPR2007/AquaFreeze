@@ -72,7 +72,7 @@ exports.run = async (client, message, args) => {
       new MessageEmbed()
         .setAuthor(
           "The song has been added to the queue",
-          "https://img.icons8.com/color/2x/cd--v3.gif"
+          "https://cdn-icons-png.flaticon.com/512/2095/2095972.png"
         )
         .setColor("F93CCA")
         .setThumbnail(song.thumbnail)
