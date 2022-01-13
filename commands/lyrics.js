@@ -20,7 +20,7 @@ exports.run = async (client, message, args) => {
   let lyricsEmbed = new MessageEmbed()
     .setAuthor(
       `Lyrics For ${queue.queue[0].name}`,
-      "https://img.icons8.com/color/2x/task--v2.gif"
+      "https://cdn-icons-png.flaticon.com/512/2096/2096031.png"
     )
     .setDescription(lyrics)
     .setColor("BLUE")
