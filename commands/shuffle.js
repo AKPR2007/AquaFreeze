@@ -12,7 +12,7 @@ exports.run = async (client, message, args) => {
       new MessageEmbed()
         .setAuthor(
           "Master Shuffle Controller Error",
-          "https://img.icons8.com/color/2x/activity.gif"
+          "https://cdn-icons-png.flaticon.com/512/2095/2095928.png"
         )
         .setDescription("** :x: There are no songs in queue to shuffle**")
         .setColor("RED")
