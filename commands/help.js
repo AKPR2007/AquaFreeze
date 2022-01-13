@@ -28,7 +28,7 @@ exports.run = async (client, message) => {
     new MessageEmbed()
       .setAuthor(
         "MusicBot Commands Help",
-        "https://img.icons8.com/color/2x/services--v2.gif"
+        "https://cdn-icons-png.flaticon.com/512/2095/2095982.png"
       )
       .setColor("FFFBFB")
       .setTimestamp()
