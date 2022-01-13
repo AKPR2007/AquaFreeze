@@ -17,7 +17,7 @@ exports.run = async (client, message) => {
     new MessageEmbed()
       .setAuthor(
         "Now Playing",
-        "https://img.icons8.com/color/2x/audio-wave--v2.gif"
+        "https://cdn-icons-png.flaticon.com/512/2095/2095987.png"
       )
       .setColor("BLUE")
       .setDescription(
