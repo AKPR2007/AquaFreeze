@@ -25,7 +25,7 @@ exports.run = async (client, message, args) => {
       new MessageEmbed()
         .setAuthor(
           "Master Volume Error",
-          "https://img.icons8.com/color/2x/high-volume--v2.gif"
+          "https://cdn-icons-png.flaticon.com/512/2095/2095954.png"
         )
         .setColor("RED")
         .setDescription("**Volume cannot exceed 100 :x: **")
