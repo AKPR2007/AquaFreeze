@@ -135,7 +135,7 @@ exports.run = async (client, message, args) => {
         new MessageEmbed()
           .setAuthor(
             "Started Playing",
-            "https://img.icons8.com/color/2x/cd--v3.gif"
+            "https://cdn-icons-png.flaticon.com/512/2095/2095972.png"
           )
           .setColor("9D5CFF")
           .setThumbnail(track.thumbnail)
