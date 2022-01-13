@@ -27,7 +27,7 @@ exports.run = async (client, message) => {
   message.channel.send(
     new MessageEmbed()
       .setAuthor(
-        "MusicBot Commands Help",
+        "AquaFrost Help",
         "https://cdn-icons-png.flaticon.com/512/2095/2095982.png"
       )
       .setColor("FFFBFB")
