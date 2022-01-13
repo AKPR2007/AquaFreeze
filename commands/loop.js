@@ -13,7 +13,7 @@ exports.run = async (client, message) => {
     new MessageEmbed()
       .setAuthor(
         "Master Loop Contrller",
-        "https://img.icons8.com/color/2x/refresh--v2.gif"
+        "https://cdn-icons-png.flaticon.com/512/2095/2095938.png"
       )
       .setColor("BLUE")
       .setTimestamp()
