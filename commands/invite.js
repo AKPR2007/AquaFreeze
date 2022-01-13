@@ -5,7 +5,7 @@ exports.run = async (client, message) => {
     new MessageEmbed()
       .setAuthor(
         "Invite Me",
-        "https://img.icons8.com/ultraviolet/2x/email-open--v2.gif"
+        "https://cdn-icons-png.flaticon.com/512/2095/2095920.png"
       )
       .setColor("BLUE")
       .setTimestamp()
