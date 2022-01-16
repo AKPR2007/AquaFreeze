@@ -143,7 +143,7 @@ exports.run = async (client, message, args) => {
           .addField("Views", track.views, false)
           .addField("Duration", track.duration, false)
           .addField("Requested By", track.requested, false)
-          .setFooter("Youtube Music Player")
+          .setFooter("AquaFrost Music Player")
       );
     } catch (e) {
       console.error(e);
